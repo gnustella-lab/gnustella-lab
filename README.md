@@ -1,16 +1,59 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/terminal-profile.svg" alt="gnustella-lab terminal profile" width="100%" />
+</p>
 
-<!--
-**gnustella-lab/gnustella-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/gnustella-lab?tab=followers">
+    <img src="https://img.shields.io/github/followers/gnustella-lab?style=for-the-badge&logo=github&label=Followers&color=6e40c9" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/gnustella-lab?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20Source-Projects-c792ea?style=for-the-badge&logo=github" alt="Open-source projects" />
+  </a>
+  <img src="https://img.shields.io/badge/OS-Linux%20Mint-79c0ff?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+</p>
 
-Here are some ideas to get you started:
+## `> featured_projects`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gnustella-lab/GhostPrint">GhostPrint</a></h3>
+      <p>Browser anti-fingerprinting extension that farbles canvas, WebGL, audio, plugins and hardware concurrency.</p>
+      <code>JavaScript</code> · <code>CSS</code> · <code>Privacy</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gnustella-lab/SpotWin">SpotWin</a></h3>
+      <p>A native Windows 11 launcher inspired by macOS Spotlight, built with WinUI 3 and .NET.</p>
+      <code>C#</code> · <code>.NET 8</code> · <code>WinUI 3</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gnustella-lab/gnustella-core">GnustellaCore</a></h3>
+      <p>A small and auditable foundation for the gnustella-lab Minecraft plugin ecosystem.</p>
+      <code>Java</code> · <code>Paper</code> · <code>Maven</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gnustella-lab/gnustella-welcome">GnustellaWelcome</a></h3>
+      <p>Configurable join, first-join, private welcome and quit messages for Paper servers.</p>
+      <code>Java</code> · <code>Minecraft</code> · <code>Paper</code>
+    </td>
+  </tr>
+</table>
+
+## `> stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,html,css,cpp,linux,git,github,vscode&perline=12" alt="Technology stack" />
+</p>
+
+## `> github_stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gnustella-lab&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnustella-lab&layout=compact&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c9d1d9" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <sub><code>code · customize · experiment · repeat</code></sub>
+</p>
