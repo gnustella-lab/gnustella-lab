@@ -9,7 +9,6 @@
       <stop offset="100%" stop-color="#120d1d"/>
     </linearGradient>
 
-```
 <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0%" stop-color="#79c0ff"/>
   <stop offset="50%" stop-color="#c792ea"/>
@@ -29,7 +28,6 @@
     <feMergeNode in="SourceGraphic"/>
   </feMerge>
 </filter>
-```
 
   </defs>
 
@@ -92,46 +90,46 @@ xml:space="preserve"
 font-family="SFMono-Regular,Consolas,Liberation Mono,monospace"
 font-size="17"
 font-weight="700"
-fill="#87cf3e"
+fill="url(#mintAccent)"
 
 >
-
-```
-<text x="52" y="120" fill="#5fae2f">          ____________________</text>
-```
-
-```
-<text x="52" y="144" fill="#65b934">         /                    \</text>
-<text x="52" y="168" fill="#6fc238">        /    ______________    \</text>
-<text x="52" y="192" fill="#79c93b">       |    /              \    |</text>
-<text x="52" y="216" fill="#83ce3e">       |   |                |   |</text>
-<text x="52" y="240" fill="#87cf3e">       |   |   ┌───┐ ┌───┐  |   |</text>
-<text x="52" y="264" fill="#92d64d">       |   |   │   │ │   │  |   |</text>
-<text x="52" y="288" fill="#9cdc5d">       |   |   │   └─┘   │  |   |</text>
-<text x="52" y="312" fill="#a7e36e">       |   |   │         │  |   |</text>
-<text x="52" y="336" fill="#b1e97e">       |   |   │  ┌───┐  │  |   |</text>
-<text x="52" y="360" fill="#bceF90">       |   |   └──┘   └──┘  |   |</text>
-<text x="52" y="384" fill="#a7e36e">       |   |                |   |</text>
-<text x="52" y="408" fill="#92d64d">       |    \______________/    |</text>
-<text x="52" y="432" fill="#79c93b">        \                      /</text>
-<text x="52" y="456" fill="#65b934">         \____________________/</text>
+    <text x="28" y="112" font-size="13.5" letter-spacing="-0.15">
+      <tspan x="28" dy="0" fill="#d8f3c8">             ...-:::::-...</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">          .-MMMMMMMMMMMMMMM-.</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">      .-MMMM</tspan><tspan fill="#87cf3e">`..-:::::::-..`</tspan><tspan fill="#d8f3c8">MMMM-.</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">    .:MMMM</tspan><tspan fill="#87cf3e">.:MMMMMMMMMMMMMMM:.</tspan><tspan fill="#d8f3c8">MMMM:.</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">   -MMM</tspan><tspan fill="#87cf3e">-M---MMMMMMMMMMMMMMMMMMM.</tspan><tspan fill="#d8f3c8">MMM-</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8"> `:MMM</tspan><tspan fill="#87cf3e">:MM`  :MMMM:....::-...-MMMM:</tspan><tspan fill="#d8f3c8">MMM:`</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8"> :MMM</tspan><tspan fill="#87cf3e">:MMM`  :MM:`  ``    ``  `:MMM:</tspan><tspan fill="#d8f3c8">MMM:</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">.MMM</tspan><tspan fill="#87cf3e">.MMMM`  :MM.  -MM.  .MM-  `MMMM.</tspan><tspan fill="#d8f3c8">MMM.</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">:MMM</tspan><tspan fill="#87cf3e">:MMMM`  :MM.  -MM-  .MM:  `MMMM-</tspan><tspan fill="#d8f3c8">MMM:</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">:MMM</tspan><tspan fill="#87cf3e">:MMMM`  :MM.  -MM-  .MM:  `MMMM:</tspan><tspan fill="#d8f3c8">MMM:</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">:MMM</tspan><tspan fill="#87cf3e">:MMMM`  :MM.  -MM-  .MM:  `MMMM-</tspan><tspan fill="#d8f3c8">MMM:</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">.MMM</tspan><tspan fill="#87cf3e">.MMMM`  :MM:--:MM:--:MM:  `MMMM.</tspan><tspan fill="#d8f3c8">MMM.</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8"> :MMM</tspan><tspan fill="#87cf3e">:MMM-  `-MMMMMMMMMMMM-`  -MMM-</tspan><tspan fill="#d8f3c8">MMM:</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">  :MMM</tspan><tspan fill="#87cf3e">:MMM:`                `:MMM:</tspan><tspan fill="#d8f3c8">MMM:</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">   .MMM</tspan><tspan fill="#87cf3e">.MMMM:--------------:MMMM.</tspan><tspan fill="#d8f3c8">MMM.</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">     '-MMMM</tspan><tspan fill="#87cf3e">.-MMMMMMMMMMMMMMM-.</tspan><tspan fill="#d8f3c8">MMMM-'</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">       '.-MMMM</tspan><tspan fill="#87cf3e">``--:::::--``</tspan><tspan fill="#d8f3c8">MMMM-.'</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">            '-MMMMMMMMMMMMM-'</tspan>
+      <tspan x="28" dy="19" fill="#d8f3c8">               ``-:::::-``</tspan>
+    </text>
 
 <text
-  x="76"
-  y="500"
+  x="105"
+  y="492"
   fill="url(#mintAccent)"
   font-size="24"
   filter="url(#glow)"
 >LINUX MINT</text>
 
 <text
-  x="62"
-  y="530"
+  x="63"
+  y="526"
   fill="#8b949e"
   font-size="15"
   font-weight="400"
 >freedom · privacy · open source</text>
-```
 
   </g>
 
@@ -146,7 +144,6 @@ fill="#87cf3e"
       font-weight="700"
     >gnustella-lab</text>
 
-```
 <text
   x="690"
   y="120"
@@ -194,7 +191,6 @@ fill="#87cf3e"
   <text x="595" y="571" fill="#484f58">..............</text>
   <text x="790" y="571" fill="#7ee787">building useful experiments_</text>
 </g>
-```
 
   </g>
 
@@ -205,4 +201,5 @@ fill="#87cf3e"
  height="2"
  fill="url(#accent)"
  opacity="0.75"
-/> </svg>
+/>
+</svg>
