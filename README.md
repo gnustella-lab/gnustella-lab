@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-profile.svg?v=e17ced8" alt="gnustella-lab terminal profile" width="100%" />
+  <img src="./assets/terminal-profile.png?v=avatar-1" alt="gnustella-lab terminal profile with avatar" width="100%" />
 </p>
 
 <p align="center">
