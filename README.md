@@ -17,26 +17,26 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnustella-lab/GhostPrint">GhostPrint</a></h3>
-      <p>Browser anti-fingerprinting extension that farbles canvas, WebGL, audio, plugins and hardware concurrency.</p>
-      <code>JavaScript</code> · <code>CSS</code> · <code>Privacy</code>
+      <h3><a href="https://github.com/gnustella-lab/sImage">sImage</a></h3>
+      <p>Privacy-focused image studio that removes metadata, redacts selected areas and processes everything locally in the browser.</p>
+      <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Privacy</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnustella-lab/SpotWin">SpotWin</a></h3>
-      <p>A native Windows 11 launcher inspired by macOS Spotlight, built with WinUI 3 and .NET.</p>
-      <code>C#</code> · <code>.NET 8</code> · <code>WinUI 3</code>
+      <h3><a href="https://github.com/gnustella-lab/sVideo">sVideo</a></h3>
+      <p>Browser-based video privacy studio that strips metadata, redacts areas frame by frame and exports without uploads.</p>
+      <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Privacy</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnustella-lab/gnustella-core">GnustellaCore</a></h3>
-      <p>A small and auditable foundation for the gnustella-lab Minecraft plugin ecosystem.</p>
-      <code>Java</code> · <code>Paper</code> · <code>Maven</code>
+      <h3><a href="https://github.com/gnustella-lab/GhostPrint">GhostPrint</a></h3>
+      <p>Firefox anti-fingerprinting extension that farbles canvas, WebGL, audio, plugins and hardware concurrency.</p>
+      <code>JavaScript</code> · <code>CSS</code> · <code>Privacy</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnustella-lab/gnustella-welcome">GnustellaWelcome</a></h3>
-      <p>Configurable join, first-join, private welcome and quit messages for Paper servers.</p>
-      <code>Java</code> · <code>Minecraft</code> · <code>Paper</code>
+      <h3><a href="https://github.com/gnustella-lab/Steve-AI">Steve-AI</a></h3>
+      <p>Minecraft Forge mod with autonomous AI agents that mine, build, explore and coordinate through natural-language commands.</p>
+      <code>Java</code> · <code>Minecraft</code> · <code>Forge</code>
     </td>
   </tr>
 </table>
