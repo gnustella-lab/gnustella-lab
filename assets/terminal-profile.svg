@@ -170,7 +170,7 @@ fill="url(#mintAccent)"
 
   <text x="480" y="292" fill="#ff7ab2">editor</text>
   <text x="595" y="292" fill="#484f58">..............</text>
-  <text x="790" y="292" fill="#79c0ff">VS Code</text>
+  <text x="790" y="292" fill="#79c0ff">VSCodium</text>
 
   <text x="480" y="340" fill="#c792ea">languages</text>
   <text x="595" y="340" fill="#484f58">............</text>
@@ -184,8 +184,8 @@ fill="url(#mintAccent)"
 
   <text x="480" y="494" fill="#79c0ff">projects</text>
   <text x="595" y="494" fill="#484f58">............</text>
-  <text x="790" y="494" fill="#c9d1d9">GhostPrint · sImage</text>
-  <text x="790" y="523" fill="#c9d1d9">sVideo · Steve-AI</text>
+  <text x="790" y="494" fill="#c9d1d9">sTools · NeoLauncher</text>
+  <text x="790" y="523" fill="#c9d1d9">GhostPrint</text>
 
   <text x="480" y="571" fill="#7ee787">status</text>
   <text x="595" y="571" fill="#484f58">..............</text>
