@@ -17,26 +17,21 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnustella-lab/sImage">sImage</a></h3>
-      <p>Privacy-focused image studio that removes metadata, redacts selected areas and processes everything locally in the browser.</p>
-      <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Privacy</code>
+      <h3><a href="https://github.com/gnustella-lab/stools">sTools</a></h3>
+      <p>Privacy-first browser tools for security, encoding and data — passwords, hashes, AES, JWT, QR and more, all client-side.</p>
+      <code>TypeScript</code> · <code>Privacy</code> · <code>Tools</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnustella-lab/sVideo">sVideo</a></h3>
-      <p>Browser-based video privacy studio that strips metadata, redacts areas frame by frame and exports without uploads.</p>
-      <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Privacy</code>
+      <h3><a href="https://github.com/gnustella-lab/NeoLauncher">NeoLauncher</a></h3>
+      <p>Modern Minecraft launcher focused on mod management, diagnostics, performance and easy instance management. (Fork of Prism Launcher)</p>
+      <code>C++</code> · <code>Java</code> · <code>Minecraft</code>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" align="center" valign="top">
       <h3><a href="https://github.com/gnustella-lab/GhostPrint">GhostPrint</a></h3>
       <p>Firefox anti-fingerprinting extension that farbles canvas, WebGL, audio, plugins and hardware concurrency.</p>
       <code>JavaScript</code> · <code>CSS</code> · <code>Privacy</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gnustella-lab/Steve-AI">Steve-AI</a></h3>
-      <p>Minecraft Forge mod with autonomous AI agents that mine, build, explore and coordinate through natural-language commands.</p>
-      <code>Java</code> · <code>Minecraft</code> · <code>Forge</code>
     </td>
   </tr>
 </table>
@@ -44,7 +39,7 @@
 ## `> stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,html,css,cpp,linux,git,github,vscode&perline=12" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,html,css,cpp,linux,git,github,vscodium&perline=12" alt="Technology stack" />
 </p>
 
 ## `> github_stats`
