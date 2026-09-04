@@ -93,28 +93,28 @@ font-weight="700"
 fill="url(#mintAccent)"
 
 >
-    <text x="55" y="120" font-size="14" letter-spacing="-0.1">
+    <text x="55" y="120" font-size="15" letter-spacing="0">
       <tspan x="55" dy="0">MMMMMMMMMMMMMMMMMMMMMMMMMmds+.</tspan>
-      <tspan x="55" dy="20">MMm----::-://////////////oymNMd+`</tspan>
-      <tspan x="55" dy="20">MMd      /++                -sNMd:</tspan>
-      <tspan x="55" dy="20">MMNso/`  dMM    `.::-. .-::.` .hMN:</tspan>
-      <tspan x="55" dy="20">ddddMMh  dMM   :hNMNMNhNMNMNh: `NMm</tspan>
-      <tspan x="55" dy="20">    NMm  dMM  .NMN/-+MMM+-/NMN` dMM</tspan>
-      <tspan x="55" dy="20">    NMm  dMM  -MMm  `MMM   dMM. dMM</tspan>
-      <tspan x="55" dy="20">    NMm  dMM  -MMm  `MMM   dMM. dMM</tspan>
-      <tspan x="55" dy="20">    NMm  dMM  .mmd  `mmm   yMM. dMM</tspan>
-      <tspan x="55" dy="20">    NMm  dMM`  ..`   ...   ydm. dMM</tspan>
-      <tspan x="55" dy="20">    hMM- +MMd/-------...-:sdds  dMM</tspan>
-      <tspan x="55" dy="20">    -NMm- :hNMNNNmdddddddddy/`  dMM</tspan>
-      <tspan x="55" dy="20">     -dMNs-``-::::-------.``    dMM</tspan>
-      <tspan x="55" dy="20">      `/dMNmy+/:-------------:/yMMM</tspan>
-      <tspan x="55" dy="20">         ./ydNMMMMMMMMMMMMMMMMMMMMM</tspan>
-      <tspan x="55" dy="20">            .MMMMMMMMMMMMMMMMMMM</tspan>
+      <tspan x="55" dy="17">MMm----::-://////////////oymNMd+`</tspan>
+      <tspan x="55" dy="17">MMd      /++                -sNMd:</tspan>
+      <tspan x="55" dy="17">MMNso/`  dMM    `.::-. .-::.` .hMN:</tspan>
+      <tspan x="55" dy="17">ddddMMh  dMM   :hNMNMNhNMNMNh: `NMm</tspan>
+      <tspan x="55" dy="17">    NMm  dMM  .NMN/-+MMM+-/NMN` dMM</tspan>
+      <tspan x="55" dy="17">    NMm  dMM  -MMm  `MMM   dMM. dMM</tspan>
+      <tspan x="55" dy="17">    NMm  dMM  -MMm  `MMM   dMM. dMM</tspan>
+      <tspan x="55" dy="17">    NMm  dMM  .mmd  `mmm   yMM. dMM</tspan>
+      <tspan x="55" dy="17">    NMm  dMM`  ..`   ...   ydm. dMM</tspan>
+      <tspan x="55" dy="17">    hMM- +MMd/-------...-:sdds  dMM</tspan>
+      <tspan x="55" dy="17">    -NMm- :hNMNNNmdddddddddy/`  dMM</tspan>
+      <tspan x="55" dy="17">     -dMNs-``-::::-------.``    dMM</tspan>
+      <tspan x="55" dy="17">      `/dMNmy+/:-------------:/yMMM</tspan>
+      <tspan x="55" dy="17">         ./ydNMMMMMMMMMMMMMMMMMMMMM</tspan>
+      <tspan x="55" dy="17">            .MMMMMMMMMMMMMMMMMMM</tspan>
     </text>
 
 <text
   x="105"
-  y="470"
+  y="430"
   fill="url(#mintAccent)"
   font-size="24"
   filter="url(#glow)"
@@ -122,7 +122,7 @@ fill="url(#mintAccent)"
 
 <text
   x="63"
-  y="526"
+  y="490"
   fill="#8b949e"
   font-size="15"
   font-weight="400"
