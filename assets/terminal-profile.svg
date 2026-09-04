@@ -93,31 +93,28 @@ font-weight="700"
 fill="url(#mintAccent)"
 
 >
-    <text x="28" y="112" font-size="13.5" letter-spacing="-0.15">
-      <tspan x="28" dy="0" fill="#d8f3c8">             ...-:::::-...</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">          .-MMMMMMMMMMMMMMM-.</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">      .-MMMM</tspan><tspan fill="#87cf3e">`..-:::::::-..`</tspan><tspan fill="#d8f3c8">MMMM-.</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">    .:MMMM</tspan><tspan fill="#87cf3e">.:MMMMMMMMMMMMMMM:.</tspan><tspan fill="#d8f3c8">MMMM:.</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">   -MMM</tspan><tspan fill="#87cf3e">-M---MMMMMMMMMMMMMMMMMMM.</tspan><tspan fill="#d8f3c8">MMM-</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8"> `:MMM</tspan><tspan fill="#87cf3e">:MM`  :MMMM:....::-...-MMMM:</tspan><tspan fill="#d8f3c8">MMM:`</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8"> :MMM</tspan><tspan fill="#87cf3e">:MMM`  :MM:`  ``    ``  `:MMM:</tspan><tspan fill="#d8f3c8">MMM:</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">.MMM</tspan><tspan fill="#87cf3e">.MMMM`  :MM.  -MM.  .MM-  `MMMM.</tspan><tspan fill="#d8f3c8">MMM.</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">:MMM</tspan><tspan fill="#87cf3e">:MMMM`  :MM.  -MM-  .MM:  `MMMM-</tspan><tspan fill="#d8f3c8">MMM:</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">:MMM</tspan><tspan fill="#87cf3e">:MMMM`  :MM.  -MM-  .MM:  `MMMM:</tspan><tspan fill="#d8f3c8">MMM:</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">:MMM</tspan><tspan fill="#87cf3e">:MMMM`  :MM.  -MM-  .MM:  `MMMM-</tspan><tspan fill="#d8f3c8">MMM:</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">.MMM</tspan><tspan fill="#87cf3e">.MMMM`  :MM:--:MM:--:MM:  `MMMM.</tspan><tspan fill="#d8f3c8">MMM.</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8"> :MMM</tspan><tspan fill="#87cf3e">:MMM-  `-MMMMMMMMMMMM-`  -MMM-</tspan><tspan fill="#d8f3c8">MMM:</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">  :MMM</tspan><tspan fill="#87cf3e">:MMM:`                `:MMM:</tspan><tspan fill="#d8f3c8">MMM:</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">   .MMM</tspan><tspan fill="#87cf3e">.MMMM:--------------:MMMM.</tspan><tspan fill="#d8f3c8">MMM.</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">     '-MMMM</tspan><tspan fill="#87cf3e">.-MMMMMMMMMMMMMMM-.</tspan><tspan fill="#d8f3c8">MMMM-'</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">       '.-MMMM</tspan><tspan fill="#87cf3e">``--:::::--``</tspan><tspan fill="#d8f3c8">MMMM-.'</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">            '-MMMMMMMMMMMMM-'</tspan>
-      <tspan x="28" dy="19" fill="#d8f3c8">               ``-:::::-``</tspan>
+    <text x="55" y="120" font-size="14" letter-spacing="-0.1">
+      <tspan x="55" dy="0" fill="#87cf3e">MMMMMMMMMMMMMMMMMMMMMMMMMmds+.</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">MMm----::-://////////////oymNMd+`</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">MMd      </tspan><tspan fill="#d8f3c8">/++                </tspan><tspan fill="#87cf3e">-sNMd:</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">MMNso/`  </tspan><tspan fill="#d8f3c8">dMM    `.::-. .-::.` </tspan><tspan fill="#87cf3e">.hMN:</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">ddddMMh  </tspan><tspan fill="#d8f3c8">dMM   :hNMNMNhNMNMNh: </tspan><tspan fill="#87cf3e">`NMm</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">    NMm  </tspan><tspan fill="#d8f3c8">dMM  .NMN/-+MMM+-/NMN` </tspan><tspan fill="#87cf3e">dMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">    NMm  </tspan><tspan fill="#d8f3c8">dMM  -MMm  `MMM   dMM. </tspan><tspan fill="#87cf3e">dMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">    NMm  </tspan><tspan fill="#d8f3c8">dMM  -MMm  `MMM   dMM. </tspan><tspan fill="#87cf3e">dMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">    NMm  </tspan><tspan fill="#d8f3c8">dMM  .mmd  `mmm   yMM. </tspan><tspan fill="#87cf3e">dMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">    NMm  </tspan><tspan fill="#d8f3c8">dMM`  ..`   ...   ydm. </tspan><tspan fill="#87cf3e">dMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">    hMM- </tspan><tspan fill="#d8f3c8">+MMd/-------...-:sdds  </tspan><tspan fill="#87cf3e">dMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">    -NMm- </tspan><tspan fill="#d8f3c8">:hNMNNNmdddddddddy/`  </tspan><tspan fill="#87cf3e">dMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">     -dMNs-</tspan><tspan fill="#d8f3c8">``-::::-------.``    </tspan><tspan fill="#87cf3e">dMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">      `/dMNmy+</tspan><tspan fill="#d8f3c8">/:-------------:/</tspan><tspan fill="#87cf3e">yMMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">         ./ydNMMMMMMMMMMMMMMMMMMMMM</tspan>
+      <tspan x="55" dy="20" fill="#87cf3e">            .MMMMMMMMMMMMMMMMMMM</tspan>
     </text>
 
 <text
   x="105"
-  y="492"
+  y="470"
   fill="url(#mintAccent)"
   font-size="24"
   filter="url(#glow)"

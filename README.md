@@ -28,10 +28,15 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/gnustella-lab/GhostPrint">GhostPrint</a></h3>
       <p>Firefox anti-fingerprinting extension that farbles canvas, WebGL, audio, plugins and hardware concurrency.</p>
       <code>JavaScript</code> · <code>CSS</code> · <code>Privacy</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gnustella-lab/obscura-simple">obscura-simple</a></h3>
+      <p>Obscura VPN client with a lightweight vanilla HTML/CSS/JS interface and ready-to-install Linux packages.</p>
+      <code>Rust</code> · <code>JavaScript</code> · <code>VPN</code>
     </td>
   </tr>
 </table>
